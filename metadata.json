@@ -1,0 +1,6 @@
+{
+  "name": "Inventário de Ativos, CRM e Relatórios",
+  "description": "Aplicativo completo para inventário fotográfico de móveis e equipamentos, CRM integrado com cadastro de clientes, geração de relatórios com assinatura digital, recibo, nota fiscal e simulação de notificações (WhatsApp, e-mail, push).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
